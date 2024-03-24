@@ -1,6 +1,3 @@
-![Alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNRf5wZxlOf3F0nlZaWUeQLlVxgkFhSJwbCA&usqp=CAU)
-
-
 # Customer Lifetime Value Prediction
 
 Customer Lifetime Value represents a customer’s value to a company over a period of time. It’s a competitive market for insurance companies in 2019, and insurance premium isn’t the only determining factor in a customer’s decisions. CLV is a customer-centric metric, and a powerful base to build upon to retain valuable customers, increase revenue from less valuable customers, and improve the customer experience overall.
